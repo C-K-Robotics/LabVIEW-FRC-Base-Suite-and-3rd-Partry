@@ -10,7 +10,7 @@ Phoenix Installer for FRC
 >https://docs.ctr-electronics.com/
 
 REV LabVIEW lib and REV Color Sensor V3
->https://docs.revrobotics.com/brushless/spark-max/revlib
+>https://docs.revrobotics.com/revlib/install
 
 WPILibMath LabVIEW
 >https://github.com/jsimpso81/WPIlibMathLabVIEW/releases
