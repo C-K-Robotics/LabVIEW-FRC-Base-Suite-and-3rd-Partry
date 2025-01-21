@@ -8,6 +8,7 @@ Install Requirements for FRC#8020
 ### LabVIEW 3rd Party Libraries
 Phoenix Installer for FRC
 >https://docs.ctr-electronics.com/
+https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/
 
 REV LabVIEW lib and REV Color Sensor V3
 >https://docs.revrobotics.com/revlib/install
